@@ -1,3 +1,3 @@
 # odin_recipes
-
-Hello Odin!
+This website is an index page
+HTML
